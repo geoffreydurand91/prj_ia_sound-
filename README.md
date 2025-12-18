@@ -1,2 +1,2 @@
 # prj_ia_sound-
-Experimental Text-to-Audio pipeline generating spectrograms via Stable Diffusion 1.5 and reconstructing sound using the Griffin-Lim algorithm.
+This project explores a visual approach to audio generation. By fine-tuning Stable Diffusion 1.5 on spectral data, the model learns to generate high-resolution spectrograms from text prompts (e.g., emotions).
